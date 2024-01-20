@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.tsbuildinfo.*
+
+# Output of the TypeScript compiler
+dist/
+
+# Visual Studio Code directory
+.vscode/
+
+# Editor configuration
+*.editorconfig
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test coverage directory
+coverage/
+
+# Yarn
+.yarn/
+yarn-error.log
+yarn.lock
+
+# npm
+npm-debug.log*
+npm-debug.log
