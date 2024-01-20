@@ -23,11 +23,6 @@ Thumbs.db
 # Test coverage directory
 coverage/
 
-# Yarn
-.yarn/
-yarn-error.log
-yarn.lock
-
 # npm
 npm-debug.log*
 npm-debug.log
